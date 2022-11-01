@@ -1,0 +1,109 @@
+{
+  "configVersion": 1,
+  "timestamp": 1667263035737,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/643.e51bc2192ea8bad6.js",
+        "/699.e0aaedce1cb0c869.js",
+        "/718.26f22dfb71c05133.js",
+        "/734.5698b6618426a16f.js",
+        "/873.6b64aeb6e7098ab8.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.c949cb8789b2d123.js",
+        "/manifest.webmanifest",
+        "/polyfills.165cbcc54e3886c1.js",
+        "/runtime.1bf8e4793d398e2c.js",
+        "/styles-default.a5809718d08fbc40.css",
+        "/theme-config.ef46db3751d8e999.css",
+        "/theme.bcb308f4f9223b13.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/favicon/manifest.json",
+        "/assets/icons/hunter.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/titan.svg",
+        "/assets/icons/warlock.svg",
+        "/assets/logos/logo-discord.png",
+        "/assets/logos/logo-kofi.png",
+        "/assets/logos/logo-twitter.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/643.e51bc2192ea8bad6.js": "f376c3c4ee16c81e82191c5fcd9db3b4dd223e53",
+    "/699.e0aaedce1cb0c869.js": "8c448540af29300607483b6f882283cfe5eed42e",
+    "/718.26f22dfb71c05133.js": "fcf4193d954a7b4cc809a37bc4f0f79431410804",
+    "/734.5698b6618426a16f.js": "85b1324ab580ef3d950ff282a316ee0bd5f37326",
+    "/873.6b64aeb6e7098ab8.js": "c31a4d5416a39e1cb7e16b97904724cb0e49d49e",
+    "/assets/favicon/manifest.json": "044bd12868ccf78fe6d7fe88dcfe2263a0dde6d6",
+    "/assets/icons/hunter.svg": "07310c6d2274246c178b4285876c323c599791b5",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/titan.svg": "873177b444c9343596c5e516295e7521115745ef",
+    "/assets/icons/warlock.svg": "8a35c6079c9642f29bfaa4585e9ec12aa587e298",
+    "/assets/logos/logo-discord.png": "45eb7cdb6f7aba4e606f069ea8c8991c18ae09c1",
+    "/assets/logos/logo-kofi.png": "e5ba60e2d9f190a8f47c2684a6178f001926ddf8",
+    "/assets/logos/logo-twitter.png": "f90b73f8782635aa63336eac93b687ee87c01a5c",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "d15128d45776d0bed9ceacc716584c1c7c90bc2a",
+    "/main.c949cb8789b2d123.js": "9afc92dbaa1298d82d2b9e2c10327a14d5a03b98",
+    "/manifest.webmanifest": "bf97f5ce38afb441db50d2ac598d52d2bde196f6",
+    "/polyfills.165cbcc54e3886c1.js": "70483a1dc46e111c3f6f9b13e35c83b63b35476a",
+    "/runtime.1bf8e4793d398e2c.js": "b4cf97d8976251faa3e6e78a1d4e8cfb3c00410a",
+    "/styles-default.a5809718d08fbc40.css": "73c46a91d445711e3e77891e9b43fdda83c32fa0",
+    "/theme-config.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/theme.bcb308f4f9223b13.css": "30c9a6ee655fffffdacd9750fc43558f63f0e304"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
