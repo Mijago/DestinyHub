@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667415866306,
+  "timestamp": 1667416214153,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/default-src_app_bungie-api_services_bungie-guardian-api_service_ts-src_app_shared_components_-6d471d.726ce699b5638750.js",
         "/favicon.ico",
         "/index.html",
-        "/main.33e6e9c6a9a05665.js",
+        "/main.bc10a0be57a28cec.js",
         "/manifest.webmanifest",
         "/polyfills.27b808d4b28cba7a.js",
         "/runtime.4cbc08452f097678.js",
@@ -75,8 +75,8 @@
     "/assets/logos/logo-twitter.png": "f90b73f8782635aa63336eac93b687ee87c01a5c",
     "/default-src_app_bungie-api_services_bungie-guardian-api_service_ts-src_app_shared_components_-6d471d.726ce699b5638750.js": "49ef63189c295c5c83128dc25b9b0372d02b2ee4",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "b634e7ea4e97f955dfa57f0bf2a4f48b71670cfa",
-    "/main.33e6e9c6a9a05665.js": "2bde73998b91875781f681a242684a019e90e943",
+    "/index.html": "e8490131d6ab79f65b4b075e30be6632ba41c92a",
+    "/main.bc10a0be57a28cec.js": "c4704beb167fe65af5c85afb1b4d1b8b4f8265ea",
     "/manifest.webmanifest": "bf97f5ce38afb441db50d2ac598d52d2bde196f6",
     "/polyfills.27b808d4b28cba7a.js": "95fe648934dd4d261e9a64cea171aab64880b39f",
     "/runtime.4cbc08452f097678.js": "602765b0c101157e4fe7288b34d7ff0d6b060bc1",
