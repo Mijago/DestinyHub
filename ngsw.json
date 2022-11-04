@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1667563816309,
+  "timestamp": 1667564333838,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -85,7 +85,7 @@
     "/default-src_app_bungie-api_services_bungie-guardian-api_service_ts-src_app_shared_components_-6d471d.147bc53312a5d7ae.js": "a72de47cb117a277e798ae34e80c519da698cca7",
     "/default-src_app_bungie-api_services_destiny-manifest_service_ts-src_app_shared_layout_layout_-4dc40e.df43a13be877a2d9.js": "f61f3a4de0ce6ca7d56ed78e3d514437c8d0870c",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "871783a6a56b6d952557236de223ad09c134f7c7",
+    "/index.html": "f1ec06f5d832bad4c1104e1a08b85e7c415065d1",
     "/main.281d3bf545604f60.js": "a572cb82de68ece62bff8959c43f30db73d58d3e",
     "/manifest.webmanifest": "bf97f5ce38afb441db50d2ac598d52d2bde196f6",
     "/polyfills.27b808d4b28cba7a.js": "95fe648934dd4d261e9a64cea171aab64880b39f",
