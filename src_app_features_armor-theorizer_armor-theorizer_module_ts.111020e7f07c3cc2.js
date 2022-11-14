@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkD2Hub=self.webpackChunkD2Hub||[]).push([["src_app_features_armor-theorizer_armor-theorizer_module_ts"],{5954:(t,e,o)=>{o.r(e),o.d(e,{ArmorTheorizerModule:()=>l});var a=o(6895),u=o(4650);let l=(()=>{class r{}return r.\u0275fac=function(n){return new(n||r)},r.\u0275mod=u.oAB({type:r}),r.\u0275inj=u.cJS({imports:[a.ez]}),r})()}}]);
